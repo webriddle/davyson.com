@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Example content
+date: 2018-02-06 19:32:10
+
 ---
 
 
