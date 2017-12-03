@@ -2,8 +2,10 @@
 layout: post
 title:  "Sam Davyson"
 author: "Sam"
-category: home
+category: HOME
 ---
 
 
 Content
+
+This is content
