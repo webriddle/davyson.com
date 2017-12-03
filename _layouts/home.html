@@ -1,11 +1,28 @@
----
-layout: no-header
----
+<!DOCTYPE html>
+<html lang="en">
 
-<div class="post">
-  <h1 class="post-title">{{ title }}</h1>
-  <div class="post-line"></div>
+  {% include head.html %}
 
-  {{ content }}
+  <body>
+    <!-- 
+    <nav class="nav">
+      <div class="nav-container">
+        <ul>
+          <li><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
+          <li><a href="{{ site.baseurl }}/">Posts</a></li>
+        </ul>
+    </div>
+  </nav>
+-->
 
-</div>
+    <main>
+      {{ content }}
+    </main>
+
+    <footer>
+      <span>
+        &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}.
+      </span>
+    </footer>
+  </body>
+</html>
