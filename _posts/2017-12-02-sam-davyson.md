@@ -13,6 +13,8 @@ category: HOME
 
 Interests: technology, physics, psychology, travel. 
 
+Based in Geneva, Switzerland
+
 ## [Boldsparks](https://boldsparks.com)
 <b>Switched on.</b> Enterprise cloud technologies.
 
