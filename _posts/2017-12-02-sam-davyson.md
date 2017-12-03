@@ -22,6 +22,4 @@ Blog on enterprise cloud technologies.
 ## [Screen Escape](http://screenescape.com)
 Your guide to managing your screen addiction.
 
-## [LinkedIn](https://www.linkedin.com/in/davyson/)
-
-## [Contact](mailto:hi@davyson.com)
+## [LinkedIn](https://www.linkedin.com/in/davyson/) &bull; [Contact](mailto:hi@davyson.com)
