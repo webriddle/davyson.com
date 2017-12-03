@@ -11,9 +11,7 @@ category: HOME
 
 ## I love solving difficult puzzles.
 
-Interested in technology, physics, psychology and travel. 
-
-Based in Geneva, Switzerland.
+Interests: technology, physics, psychology, travel. 
 
 ## [Boldsparks](https://boldsparks.com)
 <b>Switched on.</b> Blog on enterprise cloud technologies.
