@@ -14,12 +14,12 @@ category: HOME
 Interests: technology, physics, psychology, travel. 
 
 ## [Boldsparks](https://boldsparks.com)
-<b>Switched on.</b> Blog on enterprise cloud technologies.
+<b>Switched on.</b> Enterprise cloud technologies.
 
 ## [Screen Escape](https://screenescape.com)
 <b>Unplugged.</b> Your guide to managing your screen addiction.
 
 ## [TRAC RUN](https://tracrun.com)
-<b>Get outside.</b> Learning to run through races with friends.
+<b>Outside.</b> Learning to run through races with friends.
 
 ## [LinkedIn](https://www.linkedin.com/in/davyson/) &bull; [Contact](mailto:hi@davyson.com)
