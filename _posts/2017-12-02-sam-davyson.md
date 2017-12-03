@@ -6,6 +6,8 @@ category: HOME
 ---
 
 
+<img src="sam-davyson.png" style="float:right;" />
+
 ## [Boldsparks](http://boldsparks.com)
 Blog on enterprise cloud technologies.
 
