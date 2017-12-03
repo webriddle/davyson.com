@@ -1,26 +1,31 @@
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-#future: true
-#relative_permalinks: true
+permalink:      /:year-:month-:day/:title
 
 # Setup
-title:               Sam Davyson
-tagline:             ''
-description:         ''
-url:                 
-baseurl:             ''
-paginate:            5
+title:          Tale
+paginate:       5
+baseurl:        "/tale"
+url:            "https://chesterhow.github.io"
 
-# About/contact
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
 author:
-  name:              Sam Davyson
-  url:               http://davyson.com
-  email:             
+  name:         Chester How
+  url:          http://chester.how
+  email:        chesterhow@gmail.com
 
 # Custom vars
-version:             1.0.0
-gems: [jekyll-paginate]
+version:        3.4.1
+github:
+  repo:         https://github.com/chesterhow/tale
 
-theme: jekyll-theme-cayman
+# Gems
+plugins:
+  - jekyll-paginate
