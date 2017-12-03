@@ -6,7 +6,7 @@ category: HOME
 ---
 
 
-<img src="sam-davyson.png" style="float:right;padding:20px;" />
+<img src="sam-davyson.png" style="float:right;padding-left:10px;padding-right:10px" />
 
 
 ## I love solving difficult puzzles.
