@@ -17,9 +17,9 @@ Interests: technology, physics, psychology, travel.
 <b>Switched on.</b> Enterprise cloud technologies.
 
 ## [Screen Escape](https://screenescape.com)
-<b>Unplugged.</b> Your guide to managing your screen addiction.
+<b>Unplugged.</b> Manage your screen addiction.
 
 ## [TRAC RUN](https://tracrun.com)
-<b>Outside.</b> Learning to run through races with friends.
+<b>Outside.</b> Running with friends.
 
 ## [LinkedIn](https://www.linkedin.com/in/davyson/) &bull; [Contact](mailto:hi@davyson.com)
