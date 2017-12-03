@@ -15,11 +15,13 @@ Interested in technology, physics, psychology and travel.
 
 Based in Geneva, Switzerland.
 
-## [Boldsparks](http://boldsparks.com)
-Blog on enterprise cloud technologies.
+## [Boldsparks](https://boldsparks.com)
+<b>Switched on.</b> Blog on enterprise cloud technologies.
 
+## [Screen Escape](https://screenescape.com)
+<b>Unplugged.</b> Your guide to managing your screen addiction.
 
-## [Screen Escape](http://screenescape.com)
-Your guide to managing your screen addiction.
+## [TRAC RUN](https://tracrun.com)
+<b>Get outside.</b> Learning to run through races with friends.
 
 ## [LinkedIn](https://www.linkedin.com/in/davyson/) &bull; [Contact](mailto:hi@davyson.com)
