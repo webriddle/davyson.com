@@ -2,10 +2,10 @@
 permalink:      /:year/:title
 
 # Setup
-title:          Sam Davyson
+title:          The Web Riddle
 paginate:       5
 baseurl:        "/"
-url:            "http://s.davyson.com"
+url:            "http://thewebriddle.com"
 
 # Assets
 sass:
