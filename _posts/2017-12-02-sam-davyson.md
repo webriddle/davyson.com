@@ -6,7 +6,7 @@ category: HOME
 ---
 
 
-<img src="so-long.png" style="width:80%" />
+<img src="so-long.jpg" style="width:80%" />
 
 
 We had a wonderful run, but all good things come to an end.
